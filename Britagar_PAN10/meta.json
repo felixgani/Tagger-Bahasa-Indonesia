@@ -1,0 +1,19 @@
+{
+  "lang":"id",
+  "pipeline":[
+        "tagger"
+  ],
+  "name":"model",
+  "license":"",
+  "author":"",
+  "url":"",
+  "vectors":{
+    "keys":17043,
+    "width":150,
+    "vectors":17043
+  },
+  "version":"0.0.0",
+  "spacy_version":">=2.1.0.dev0",
+  "email":"",
+  "description":""
+}
