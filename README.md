@@ -93,5 +93,5 @@ To used this API you can run:
 [flask run]
   
 Source:
-Spacy.io : [a link](https://spacy.io/)
-Atma Jaya Yogyakarta University : a link](https://uajy.ac.id/)
+[Spacy.io](https://spacy.io/)
+[Atma Jaya Yogyakarta University](https://uajy.ac.id/)
