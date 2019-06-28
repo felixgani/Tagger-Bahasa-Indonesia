@@ -1,4 +1,5 @@
 "# Tagger Indonesia"
+
 This is the basic API in Python Flask that uses NLP (Natural Language Processing) Spack. NLP specified in this API is used to mark POS (Talk Section) which is created using the Spacy.io library for Python. This API can be used for Indonesian, in this project there are 4 Spacy Models that can classify Indonesian with signs. Those model was built with 2 sentences corpus and 2 tagger corpus.
 
 Sentence Corpus Source:
@@ -91,3 +92,6 @@ Those models has been evaluated, it can be concluded that the Spacy library can 
 To used this API you can run:
 [flask run]
   
+Source:
+Spacy.io : [a link](https://spacy.io/)
+Atma Jaya Yogyakarta University : a link](https://uajy.ac.id/)
