@@ -94,4 +94,5 @@ To used this API you can run:
   
 Source:
 [Spacy.io](https://spacy.io/)
+
 [Atma Jaya Yogyakarta University](https://uajy.ac.id/)
